@@ -1,0 +1,215 @@
+html, body, #map-canvas {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+	background-color: #F0F0F0;
+}
+#map-canvas{
+	float: left;
+    width: 40%;
+    margin: 20px;
+    background-color: #fff;
+    border-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+}
+#heading{
+	background: linear-gradient(#ff6600, #ff751a); /* Standard syntax; makes a gradient */
+	position: relative;
+	width: 100%;
+}
+#logo{
+	margin: 10px;
+	max-width: 100%;
+}
+#menu{
+	position: absolute; right:0;
+	margin-left: auto;
+	margin-right: auto;
+	background: #4C4C4C;
+	width: 16.11328125%;
+	display: none;
+	margin-left: 10px;
+	padding: 5px 0 5px;
+	border-radius: 6px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+#menu ul{
+		list-style: none;
+}
+#menu li a{
+	color: #ff6600;
+	display: block;
+	font-family: arial;
+	padding: 6px 6px;
+	cursor: pointer;
+	text-decoration:none;
+	list-style-type: none;
+}
+#menu li a:hover{
+	background:#ff6600;
+	color: #4C4C4C;
+	text-decoration: none;
+	list-style-type: none;
+}
+#menuBtn{
+	float:right;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 10%;
+	height: auto;
+	background-color: #ff6600;
+	border-color: #ff751a;
+	font-size: 100%;
+}
+#container{
+	text-align: center;
+}
+
+#information{
+	float: left;
+	width: 40%;
+	height: auto;
+	background-color: #FFF;
+	font-family:'Oswald', sans-serif;
+	color: orange;
+	font-size: 24px;
+	margin: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	box-shadow: 3px 3px 2px #AAAAAA;
+	display: none;
+
+}
+#details{
+	font-family:'Archivo Narrow', sans-serif;
+	color: #000;
+	font-size: 18px;
+	margin: 10px;
+	width: 40%;
+	height: auto;
+}
+#button{
+	width: 30%;
+	height: 5%;
+	background-color: #ff6600;
+	font size: 50%;
+}
+#back{
+	text-align: center;
+}
+input{
+	max-width: 100%;
+}
+.select{
+	width: 1%;
+	height: 1.5%;
+	background-color: #949494;
+	border: none;
+}
+.pictures{
+	background: none;
+	border: none;
+	font-size: 18px;
+	font-family:'Archivo Narrow', sans-serif;
+	cursor: pointer;
+	position: relative;
+}
+#pictures:hover{
+	color: gray;
+}
+
+
+@media all and (min-width: 10px) and (max-width: 420px){ 
+ 	body {
+		background: #F0F0F0;
+	}
+	#information {
+		width: 40%;
+		font-size: 100%;
+	}
+	#menu{
+		width: 16.11328125%;
+	}
+	#back{
+		text-align: center;
+	}
+	#button{
+		height: 5%;
+		width: 30%;
+		font-size: 50%;
+	}
+	#details{
+		width: 40%;
+		height: auto;
+		font-size: 100%;		
+	}
+	#menuBtn{
+		width: 10%;
+		height: auto;
+		font-size: 35%;
+	}
+}
+@media all and (min-width: 420px) and (max-width: 720px){ 
+ 	body {
+		background: #F0F0F0;
+	}
+	#information {
+		width: 40%;
+		font-size: 100%;
+	}
+	#menu{
+		width: 16.11328125%;
+	}
+	#back{
+		text-align: center;
+	}
+	#button{
+		height: 5%;
+		width: 30%;
+		font-size: 50%;
+	}
+	#details{
+		width: 40%;
+		height: auto;
+		font-size: 100%;		
+	}
+	#menuBtn{
+		width: 10%;
+		height: auto;
+		font-size: 75%;
+	}
+}
+@media all and (min-width: 720px) and (max-width: 1024px){ 
+ 	body {
+		background: #F0F0F0;
+	}
+	#information {
+		width: 40%;
+		font-size: 100%;
+	}
+	#menu{
+		width: 10%;
+	}
+	#details{
+		width: 40%;
+		height: auto;
+		font-size: 100%;		
+	}
+	#menuBtn{
+		width: 10%;
+		height: auto;
+		font-size: 100%;
+	}
+	#back{
+		text-align: center;
+	}
+	#button{
+		height: 5%;
+		width: 30%;
+		font-size: 85%;
+}

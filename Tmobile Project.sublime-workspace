@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"menu",
+				"menuBtn"
+			],
+			[
+				"element",
+				"element2"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"in",
+				"information"
+			],
+			[
+				"ad",
+				"addListener"
+			],
+			[
+				"event",
+				"addEventListener"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"function",
+				"functionCalled"
+			],
+			[
+				"elem",
+				"elementCounter"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Tmobile_SanFran.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tmobile_Olympia.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Sprint_Austin.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Sprint_Austin.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tmobile_SanFran.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tmobile_Olympia.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Site-acq Project Listings.sublime-project",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Menu-function.js",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Verizon_Orlando.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Verizon_Orlando.js",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Verizon_Schaumburg.js",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Verizon_Schaumburg.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/testing.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/test.js",
+		"/C/Users/Isheeta Shah/Downloads/DynamicPage (1)/DynamicPage/about.html",
+		"/C/Users/Isheeta Shah/Downloads/DynamicPage (1)/DynamicPage/css/style.css",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/test.html",
+		"/C/Users/Isheeta Shah/Downloads/DynamicPage (1)/DynamicPage/index.html",
+		"/C/Users/Isheeta Shah/Documents/bootstrap/Bootstrap.js",
+		"/C/Users/Isheeta Shah/Documents/bootstrap/Bootstrap.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/gmap.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/other.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/gmaps.css",
+		"/C/Users/Isheeta Shah/Documents/bootstrap/Boostrap.js",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Info.js",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/info.css",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Site Details.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/Location.html",
+		"/C/Users/Isheeta Shah/Documents/GMAPS API/maps.js",
+		"/C/Users/Isheeta Shah/Documents/Bootstrap.html",
+		"/C/Users/Isheeta Shah/Documents/bootstrap/Bootstrap-project.sublime-project",
+		"/C/Users/Isheeta Shah/Documents/bootstrap/Bootstrap-wout-form.html",
+		"/C/Users/Isheeta Shah/Documents/Bootstrap-wout-form.html",
+		"/C/Users/Isheeta Shah/Documents/Bootstrap-no-form.js",
+		"/C/Users/Isheeta Shah/Documents/side.js",
+		"/C/Users/Isheeta Shah/Documents/Front.html",
+		"/C/Users/Isheeta Shah/Documents/Bootstrap.css",
+		"/C/Users/Isheeta Shah/Documents/Testwithoutstyle",
+		"/C/Users/Isheeta Shah/Documents/teststyle",
+		"/C/Users/Isheeta Shah/Documents/test.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"one",
+			"locations",
+			";\n",
+			"	\n",
+			"col-sm-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-sm-3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Tmobile_SanFran.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Tmobile_Olympia.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Sprint_Austin.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Sprint_Austin.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Tmobile_SanFran.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Tmobile_Olympia.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

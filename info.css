@@ -1,0 +1,23 @@
+#information{
+	float: left;
+	width: 40%;
+	display: block;
+	background-color: #FFF;
+	font-family:'Oswald', sans-serif;
+	color: orange;
+	font-size: 24px;
+	margin: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	box-shadow: 3px 3px 2px #AAAAAA;
+	/*display: none;*/
+
+}
+#details{
+	font-family:'Archivo Narrow', sans-serif;
+	background-color: #FFF;
+	color: #000;
+	font-size: 18px;
+	margin: 10px;
+}

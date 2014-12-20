@@ -1,0 +1,100 @@
+body{
+	background-color: #F0F0F0;
+}
+#heading{
+	background: linear-gradient(#ff6600, #ff751a); /* Standard syntax; makes a gradient */
+}
+img{
+	margin: 10px;
+}
+#projects{
+	width: 60%;
+	background-color: #FFF;
+	font-family:'Oswald', sans-serif;
+	color: orange;
+	font-size: 24px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	box-shadow: 3px 3px 2px #AAAAAA;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.selection{
+	display: inline-block;
+	font-family:'Archivo Narrow', sans-serif;
+	color: #000;
+	font-size: 18px;
+	border-top: 2px;
+	border-color: #CCCCCC;
+}
+#dropdown{
+	display: inline-block;
+	width: 50%;
+}
+@media all and (min-width: 10px) and (max-width: 420px){ 
+ 	body{
+		background-color: #F0F0F0;
+	}
+	#heading{
+		background: linear-gradient(#ff6600, #ff751a); /* Standard syntax; makes a gradient */
+	}
+	img{
+		margin: 10px;
+	}
+	#projects{
+		width: 60%;
+	}
+	.selection{
+		font-size: 70%;
+	}
+	#dropdown{
+		width: 50%;
+	}
+	#button{
+		font-size: 40%;
+		width: 20%;
+		height: auto;
+	}
+}
+@media all and (min-width: 420px) and (max-width: 720px){ 
+ 	body{
+		background-color: #F0F0F0;
+	}
+	#heading{
+		background: linear-gradient(#ff6600, #ff751a); /* Standard syntax; makes a gradient */
+	}
+	img{
+		margin: 10px;
+	}
+	#projects{
+		width: 60%;
+	}
+	.selection{
+		font-size: 80%;
+	}
+	#dropdown{
+		width: 50%;
+	}
+}
+@media all and (min-width: 720px) and (max-width: 1024px){ 
+ 	body{
+		background-color: #F0F0F0;
+	}
+	#heading{
+		background: linear-gradient(#ff6600, #ff751a); /* Standard syntax; makes a gradient */
+	}
+	img{
+		margin: 10px;
+	}
+	#projects{
+		width: 60%;
+	}
+	.selection{
+		font-size: 80%;
+	}
+	#dropdown{
+		width: 50%;
+	}
+}
